@@ -206,7 +206,7 @@ Las contribuciones son bienvenidas. Para contribuir:
 - ✅ Optimización de contraste y accesibilidad
 
 ## 👥 Autores
-
+Juan José Restrepo Londoño
 
 ## 📄 Licencia
 
