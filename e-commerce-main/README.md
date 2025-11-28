@@ -207,7 +207,6 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 ## 👥 Autores
 
-- **John Mesa** - [@johnmesa-cell](https://github.com/johnmesa-cell)
 
 ## 📄 Licencia
 
